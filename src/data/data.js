@@ -18,7 +18,7 @@ let data = [
   },
   {
     source: {
-      id: null,
+      id: 'CNET',
       name: 'CNET',
     },
     author: 'Eric Mack',
@@ -52,7 +52,7 @@ let data = [
   },
   {
     source: {
-      id: null,
+      id: 'Fox Business',
       name: 'Fox Business',
     },
     author: 'Kelsey Ramirez',
@@ -86,7 +86,7 @@ let data = [
   },
   {
     source: {
-      id: null,
+      id: 'Yahoo Entertainment',
       name: 'Yahoo Entertainment',
     },
     author: 'Usman Kabir',
@@ -103,7 +103,7 @@ let data = [
   },
   {
     source: {
-      id: null,
+      id: 'CNBC',
       name: 'CNBC',
     },
     author: 'Jeff Cox',
@@ -120,7 +120,7 @@ let data = [
   },
   {
     source: {
-      id: null,
+      id: 'YouTube',
       name: 'YouTube',
     },
     author: null,
@@ -135,7 +135,7 @@ let data = [
   },
   {
     source: {
-      id: null,
+      id: 'CNBC1',
       name: 'CNBC',
     },
     author: 'Matthew J. Belvedere',
@@ -151,7 +151,7 @@ let data = [
   },
   {
     source: {
-      id: null,
+      id: 'Daily Beast',
       name: 'Daily Beast',
     },
     author: 'Barbie Latza Nadeau',
